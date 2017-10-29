@@ -261,6 +261,12 @@ img.resize{
     width: 50%;
 }
 
+.profile-edit .contact{
+    float:left;
+    padding: 50px 0px;
+    font-size: 200%;
+}
+
 .section-heading {
     margin-top: 0;
     margin-bottom: 10px;
