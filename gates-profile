@@ -77,9 +77,7 @@
 	<div class="picture">
         <img class="resize" src="images/Melinda-Gates.jpg" alt="Melinda-Gates">
         <div class="contact">
-    		<form>
-                <button formaction="http://cliq.zoho.com">Contact Melinda</button>
-            </form>
+    		<a href="http://cliq.zoho.com" class="btn btn-info" role="button">Contact Melinda</a>
     	</div>
     </div>
     <div class="bio">

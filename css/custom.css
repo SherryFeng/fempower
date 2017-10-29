@@ -273,8 +273,7 @@ img.resize{
 
 .profile-edit .contact{
     float:left;
-    /*padding: 50px 0px;*/
-    margin-left: -200px;
+    padding: 50px 0px;
     font-size: 150%;
 }
 

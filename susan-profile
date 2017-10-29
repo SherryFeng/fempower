@@ -77,9 +77,7 @@
 	<div class="picture">
     	<img class="resize" src="images/Susan-Wojcicki.jpg" alt="Susan-Wojcicki">
     	<div class="contact">
-    		<form>
-                <button formaction="http://cliq.zoho.com">Contact Susan</button>
-            </form>
+    		<a href="http://cliq.zoho.com" class="btn btn-info" role="button">Contact Susan</a>
     	</div>
     </div>
     <div class="bio">
