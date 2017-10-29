@@ -40,8 +40,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#">
-                    <span class="glyphicon glyphicon-fire"></span> 
-                    LOGO
+                    <div class="imgPlaceholder"></div>
                 </a>
             </div>
             <!-- Navbar links -->
@@ -78,13 +77,11 @@
 	<div class="picture">
         <img class="resize" src="images/Melinda-Gates.jpg" alt="Melinda-Gates">
         <div class="contact">
-    		<button type="button">Contact Sheryl</button>
+    		<button type="button">Contact Melinda</button>
     	</div>
     </div>
     <div class="bio">
-    	<font size="4">"Melinda Gates is co-chair of the Bill and Melinda Gates Foundation.
-            
-            Along with Bill, she shapes and approves the foundation’s strategies, reviews results, and sets the overall direction of the organization. Together, they meet with grantees and partners to further the foundation’s goal of improving equity in the United States and around the world." - gatesfoundation.org</font>
+    	<font size="4">"Melinda Gates is co-chair of the Bill and Melinda Gates Foundation. Along with Bill, she shapes and approves the foundation’s strategies, reviews results, and sets the overall direction of the organization. Together, they meet with grantees and partners to further the foundation’s goal of improving equity in the United States and around the world." - gatesfoundation.org</font>
     </div>
 </div>
 
