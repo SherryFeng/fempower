@@ -76,7 +76,10 @@
 
 <div class="profile-edit">
 	<div class="picture">
-    	<img class="resize" src="images/Melinda-Gates.jpg" alt="Melinda-Gates">
+        <img class="resize" src="images/Melinda-Gates.jpg" alt="Melinda-Gates">
+        <div class="contact">
+    		<button type="button">Contact Sheryl</button>
+    	</div>
     </div>
     <div class="bio">
     	<font size="4">"Melinda Gates is co-chair of the Bill and Melinda Gates Foundation.
